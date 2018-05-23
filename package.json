@@ -7,7 +7,7 @@
     "url": "https://github.com/eggEmail/issues"
   },
   "dependencies": {
-    "emailjs": "^1.0.12"
+    "emailjs": "^2.0.0"
   },
   "deprecated": false,
   "description": "Email plugin for egg",
